@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CalibAudit"
+abstract: "Calibration audit for probabilistic forecasts — Murphy decomposition of the Brier score with the reliability-resolution-uncertainty identity property-tested to machine precision, reliability diagrams with bootstrap bands, skill scores against a stated reference, and the binning bias of expected calibration error measured on synthetic forecasts of known calibration rather than merely noted; Platt and isotonic recalibration against the raw forecast as baseline, including the small-sample case where recalibration makes the score worse."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/calibaudit"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - aerospace-assurance
